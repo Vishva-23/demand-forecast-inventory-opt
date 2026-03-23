@@ -1,0 +1,11 @@
+node_id,name,echelon,lead_time_weeks,children
+Central_DC,Global-HQ-DC,1,0,"EMEA-RDC, APAC-RDC, Americas-RDC"
+EMEA-RDC,EMEA Regional DC,2,2,"Cork-IE, Amsterdam-NL"
+APAC-RDC,APAC Regional DC,2,3,"Shanghai-CN, Tokyo-JP"
+Americas-RDC,Americas Regional DC,2,2,"Louisville-US, Toronto-CA"
+Cork-IE,Cork-IE,3,1,
+Amsterdam-NL,Amsterdam-NL,3,1,
+Shanghai-CN,Shanghai-CN,3,1,
+Tokyo-JP,Tokyo-JP,3,1,
+Louisville-US,Louisville-US,3,1,
+Toronto-CA,Toronto-CA,3,1,
